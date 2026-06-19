@@ -1,0 +1,6 @@
+{
+  "name": "Smart AI Survey and Voting Platform",
+  "description": "An interactive Google Forms style survey creator featuring unauthenticated participant modes, master & sub-account permission control, sticky QR code generator, drag-and-drop toolbox, real-time AI builder assistants, and deep AI-driven response text emotion indices & clustering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
